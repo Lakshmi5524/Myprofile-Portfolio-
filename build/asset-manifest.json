@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96e70322.chunk.css",
+    "main.js": "/static/js/main.91200940.chunk.js",
+    "main.js.map": "/static/js/main.91200940.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f7c3a5a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f7c3a5a.js.map",
+    "static/js/2.738e2fda.chunk.js": "/static/js/2.738e2fda.chunk.js",
+    "static/js/2.738e2fda.chunk.js.map": "/static/js/2.738e2fda.chunk.js.map",
+    "static/js/3.2bf64d4b.chunk.js": "/static/js/3.2bf64d4b.chunk.js",
+    "static/js/3.2bf64d4b.chunk.js.map": "/static/js/3.2bf64d4b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.96e70322.chunk.css.map": "/static/css/main.96e70322.chunk.css.map",
+    "static/js/2.738e2fda.chunk.js.LICENSE.txt": "/static/js/2.738e2fda.chunk.js.LICENSE.txt",
+    "static/media/ExperienceContainer.css": "/static/media/bg.b0dc3b0f.jpeg",
+    "static/media/Topcontainer.css": "/static/media/img-2.63b904af.jpeg",
+    "static/media/web3.add5abe4.webp": "/static/media/web3.add5abe4.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f7c3a5a.js",
+    "static/js/2.738e2fda.chunk.js",
+    "static/css/main.96e70322.chunk.css",
+    "static/js/main.91200940.chunk.js"
+  ]
+}
