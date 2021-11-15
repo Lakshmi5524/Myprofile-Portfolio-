@@ -3,7 +3,7 @@
 
 .header{
 display:flex;
-align-item:center;
+align-items:center;
 color:white;
 background-color:black;
 top:0;
@@ -14,7 +14,7 @@ z-index:2000;
 	flex:0.4;
 }
 .header_left>h1{
-text-alin:center;
+text-align:center;
 font-family:"Alata",sans-serif;
 letter-spacing:1px;
 padding:20px 0;
@@ -26,7 +26,7 @@ padding:20px 0;
 display:flex;
 flex:0.6;
 justify-content:space-evenly;
-align-item:center;
+align-items: center;
 margin-top:30px;
 
 }
@@ -38,7 +38,7 @@ font-family:"Crimson Text",serif;
 
 }
 .header_right >a>h4:hover{
- transfrom:scale(1.09);
+transform:scale(1.09);
 background-color:#f64c08;
 padding:5px 20px;
 border-radius:2px;
